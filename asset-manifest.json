@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-cv-/static/css/main.f809639f.css",
+    "main.js": "/my-cv-/static/js/main.1473abb0.js",
+    "static/js/787.20416dff.chunk.js": "/my-cv-/static/js/787.20416dff.chunk.js",
+    "static/media/Amira BADAWI (2).pdf": "/my-cv-/static/media/Amira BADAWI (2).916f93cd70ebd54d99fb.pdf",
+    "static/media/me.PNG": "/my-cv-/static/media/me.fe2ac6df5ec13b7e9869.PNG",
+    "static/media/queen.jpg": "/my-cv-/static/media/queen.60666082b07857089085.jpg",
+    "index.html": "/my-cv-/index.html",
+    "main.f809639f.css.map": "/my-cv-/static/css/main.f809639f.css.map",
+    "main.1473abb0.js.map": "/my-cv-/static/js/main.1473abb0.js.map",
+    "787.20416dff.chunk.js.map": "/my-cv-/static/js/787.20416dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f809639f.css",
+    "static/js/main.1473abb0.js"
+  ]
+}
